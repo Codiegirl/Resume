@@ -3,7 +3,7 @@
 Github | Linkedin
 
 
-### Work History
+## Work History
 ## University of Houston, Kathrine G. McGovern College of the Arts, Houston, Texas
 Web Master, _January 2020 - April 2020_
 + Implement new content for the college’s Content Management System and iModules platform
