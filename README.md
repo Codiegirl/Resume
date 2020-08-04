@@ -1,7 +1,7 @@
 # Ida Rochell Flood
 
 832-233-2237
-[Github](https://github.com/Codiegirl) | [Linkedin](https://www.linkedin.com/in/rochell-flood-3aab06145/)
+[Github](https://github.com/Codiegirl) | [Linkedin](https://www.linkedin.com/in/rochell-flood-3aab06145/) | [Portfoliio](https://rochellflood.com/)
 
 
 ## Employment History
