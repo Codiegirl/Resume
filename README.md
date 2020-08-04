@@ -3,7 +3,6 @@
 832-233-2237
 [Github](https://github.com/Codiegirl) | [Linkedin](https://www.linkedin.com/in/rochell-flood-3aab06145/) | [Portfoliio](https://rochellflood.com/)
 
-
 ## Employment History
 __University of Houston, Kathrine G. McGovern College of the Arts__, Houston, Texas
 Web Master, _January 2020 - April 2020_
