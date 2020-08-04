@@ -25,3 +25,5 @@ English Teacher, _August 2007 - October 2016_
 + Provided quality instruction in English and created a curriculum tailored to the needs of students 
 + Fostered relationships with students of different cultures and backgrounds to facilitate learning
 
+## Skills
+Ruby, Rails, JavaScript, React, Node.js, SQL,Express, Sinatra, ActiveRecord, HTML, CSS
