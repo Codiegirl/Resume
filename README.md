@@ -26,4 +26,12 @@ English Teacher, _August 2007 - October 2016_
 + Fostered relationships with students of different cultures and backgrounds to facilitate learning
 
 ## Skills
-Ruby, Rails, JavaScript, React, Node.js, SQL,Express, Sinatra, ActiveRecord, HTML, CSS
+Ruby, Rails, JavaScript, React, Node.js, SQL,Express, Sinatra, ActiveRecord, HTML, CSS, Git
+
+## Education
+__Flatiron School__ - Houston, Texas - ​2019
++ Full Stack Web Development, Ruby on Rails and JavaScript immersive program
+
+__Texas State University__ - ​San Marcos, Texas
++ Bachelor of Arts: Mass Communications, Journalism 
+
